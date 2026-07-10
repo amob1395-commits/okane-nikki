@@ -1,0 +1,9 @@
+{
+  "name": "おかね日記",
+  "short_name": "おかね日記",
+  "description": "お金のジャーナリング 〜数字じゃなく、物語をつける〜",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF8F1",
+  "theme_color": "#5B7561"
+}
